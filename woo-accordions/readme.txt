@@ -4,7 +4,7 @@ Tags: woocommerce accordion, accordion, woocommerce addon, woocommerce plugin, a
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=sales@magnigenie.com&item_name=Woocommerce Sticky Add Cart&return=https://magnigenie.com
 Requires at least: 4.0
 Requires PHP: 5.4
-Tested up to: 6.6
+Tested up to: 6.8
 Stable tag: 1.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
